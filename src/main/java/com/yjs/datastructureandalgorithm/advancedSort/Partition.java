@@ -1,4 +1,4 @@
-package com.yjs.datastructureandalgorithm.AdvancedSort;
+package com.yjs.datastructureandalgorithm.advancedSort;
 
 
 /**

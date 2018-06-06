@@ -1,4 +1,4 @@
-package com.yjs.datastructureandalgorithm.advancedSort;
+package com.yjs.datastructureandalgorithm.advancedsort;
 
 /**
  * 快速排序-三项数据取中值
